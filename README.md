@@ -6,8 +6,8 @@ Treinamento focado nas linguagens Node.js, ReactJS e React Native.
 
 Neste módulo, é aprensentado os principais conceitos de API Rest e Node.js tais como: 
 
-> Rotas 
-> Métodos HTTP
-> Tipos de parâmetros
-> Middlewares
-> Debug
+* Rotas 
+* Métodos HTTP
+* Tipos de parâmetros
+* Middlewares
+* Debug
